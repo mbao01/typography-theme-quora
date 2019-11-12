@@ -19,4 +19,4 @@ const typography = new Typography(quoraTheme);
 
 ## More on theme
 
-Quora uses "<a href='https://fonts.google.com/specimen/Catarela'>Cantarela</a>" for headers and "<a href='https://fonts.google.com/specimen/Catarela'>Catarela</a>" for body text
+Quora uses "**_-apple-system_**" for headers and "**_-apple-system_**" for body text
