@@ -1,0 +1,30 @@
+{
+  "name": "typography-theme-quora",
+  "version": "0.0.1",
+  "description": "A Typography.js theme for readability based on quora.com style",
+  "author": "Ayomide Bakare <bakkareayomideo@gmail.com>",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "../../node_modules/.bin/babel src --out-dir dist/",
+    "flow": "../../node_modules/.bin/flow",
+    "lint": "../../node_modules/.bin/eslint --ext .js,.jsx --ignore-path .gitignore .",
+    "watch": "../../node_modules/.bin/babel -w src --out-dir dist/"
+  },
+  "dependencies": {
+    "gray-percentage": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbao01/typography-theme-quora.git"
+  },
+  "keywords": [
+    "css",
+    "typography",
+    "typography-theme"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbao01/typography-theme-quora/issues"
+  },
+  "homepage": "https://github.com/mbao01/typography-theme-quora#readme"
+}
