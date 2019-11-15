@@ -1,6 +1,6 @@
 {
   "name": "typography-theme-quora",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Typography.js theme for readability based on quora.com style",
   "author": "Ayomide Bakare <bakkareayomideo@gmail.com>",
   "main": "./dist/index.js",
